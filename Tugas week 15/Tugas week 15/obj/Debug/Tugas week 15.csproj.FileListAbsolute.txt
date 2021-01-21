@@ -1,0 +1,10 @@
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\bin\Debug\Tugas week 15.exe.config
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\bin\Debug\Tugas week 15.exe
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\bin\Debug\Tugas week 15.pdb
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas week 15.csprojAssemblyReference.cache
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas_week_15.Form1.resources
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas_week_15.Properties.Resources.resources
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas week 15.csproj.GenerateResource.cache
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas week 15.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas week 15.exe
+C:\Users\Alexander Jason W\source\repos\Tugas week 15\Tugas week 15\obj\Debug\Tugas week 15.pdb
